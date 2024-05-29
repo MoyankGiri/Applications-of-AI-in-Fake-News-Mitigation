@@ -1,7 +1,7 @@
 # Applications-of-AI-in-Fake-News-Mitigation
 
 This repository is the implementation for the paper titled: Automated and Interpretable Fake News Detection with Explainable Artificial Intelligence <br>
-The paper is available here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4076594
+The paper is available here: https://doi.org/10.1080/19361610.2024.2356431
 
 ## Abstract
 Fake news is a piece of misleading/forged information which affects society, business, governments etc and hence is an imperative issue. The solution presented here to detect fake news involves purely making use of rigorous machine learning approaches in implementing a hybrid of simple
